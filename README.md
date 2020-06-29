@@ -1,5 +1,9 @@
 # ZALLPY CHALLENGE BACKEND (API) COM C# ASP.NET CORE
 
+![Alt text](https://github.com/mauriciocontrole/zallpy_challenge_back/blob/master/zallpy_challenge_gif.gif?raw=true "Optional Title")
+
+
+
 ## SOFTWARES UTILIZADOS:
 - MySQL 5.7 Command Line Client
 
