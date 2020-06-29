@@ -1,5 +1,11 @@
 # ZALLPY CHALLENGE BACKEND (API) COM C# ASP.NET CORE
 
+Este projeto consiste em uma aplicação frontend em Flutter (Dart) se comunicando por requisições HTTP com um backend em .NET (C#).
+
+O front realiza uma request (get) solicitando quais perguntas (em ordem aleatória) ele deverá imprimir e recebe também as respostas certas de cada pergunta.
+
+Ao receber a request, o back realiza uma consulta no banco de dados MySQL e retorna uma lista de Questions para o front.
+
 ![Alt text](https://github.com/mauriciocontrole/zallpy_challenge_back/blob/master/zallpy_challenge_gif.gif?raw=true "Optional Title")
 
 
